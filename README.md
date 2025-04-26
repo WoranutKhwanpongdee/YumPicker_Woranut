@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a053ef16-3e9c-45c8-bb8d-7ca2c96f11cf)📱 แบบฟอร์มส่งงานสอบ Take-home | Take-home Assignment Template
+📱 แบบฟอร์มส่งงานสอบ Take-home | Take-home Assignment Template
 ชื่อ - นามสกุล (Full Name): Woranut Khwanpongdee
 รหัสนักศึกษา (Student ID): 6631503036
 ชื่อแอป (App Name): YumPicker
