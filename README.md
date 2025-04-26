@@ -4,7 +4,7 @@
 รหัสนักศึกษา (Student ID): 6631503036
 ชื่อแอป (App Name): YumPicker
 Framework ที่ใช้ (Framework Used): React Native
-ลิงก์ GitHub Repository: [ใส่ลิงก์ที่นี่ | Insert link here]
+ลิงก์ GitHub Repository: https://github.com/WoranutKhwanpongdee/YumPicker_Woranut
 ลิงก์ไฟล์ติดตั้ง (APK/IPA): https://expo.dev/accounts/woranut/projects/MyFinal/builds/9f007c6b-3d33-417c-b8a3-0ce1a3445d4c?fbclid=IwY2xjawJ55Q9leHRuA2FlbQIxMABicmlkETFyam15bTF5MlJJQnQ2OVByAR7l_VXpQdkkFMOyFZ_3jaqDT9FZAHIadDI7pD21JKmmlgblRxHT9AH28LesYw_aem_g9QqwpEJ0NvyQx2z4OCGLQ/9f007c6b-3d33-417c-b8a3-0ce1a3445d4c
 
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts)
