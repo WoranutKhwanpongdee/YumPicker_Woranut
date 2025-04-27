@@ -69,6 +69,7 @@ Checklist:
 ![image](https://github.com/user-attachments/assets/aad87375-21ec-407a-bfd7-062ff6b2c737)
 
 3. การ Build และติดตั้งแอป | Deployment (2 คะแนน / 2 pts)
+
 3.1 ประเภท Build | Build Type
 [x] Debug
 [ ] Release
